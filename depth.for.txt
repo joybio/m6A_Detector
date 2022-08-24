@@ -1,0 +1,6 @@
+/home/j/backup4/YSP/20220308-ysp-HEK293T/X101SC21110898-Z01-J090/1.rawdata/rawdata/YSP_Input_1_7.R2.coord.forward.h.bam
+/home/j/backup4/YSP/20220308-ysp-HEK293T/X101SC21110898-Z01-J090/1.rawdata/rawdata/YSP_Input_2_8.R2.coord.forward.h.bam
+/home/j/backup4/YSP/20220308-ysp-HEK293T/X101SC21110898-Z01-J090/1.rawdata/rawdata/YSP_IP_1_9.R2.coord.forward.h.bam
+/home/j/backup4/YSP/20220308-ysp-HEK293T/X101SC21110898-Z01-J090/1.rawdata/rawdata/YSP_IP_2_10.R2.coord.forward.h.bam
+/home/j/backup4/YSP/20220308-ysp-HEK293T/X101SC21110898-Z01-J090/1.rawdata/rawdata/YSP_SSIII_1_11.R2.coord.forward.h.bam
+/home/j/backup4/YSP/20220308-ysp-HEK293T/X101SC21110898-Z01-J090/1.rawdata/rawdata/YSP_SSIII_2_12.R2.coord.forward.h.bam
